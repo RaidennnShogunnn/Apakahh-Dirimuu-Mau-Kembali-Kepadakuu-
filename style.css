@@ -1,0 +1,47 @@
+body {
+    background-color: #bc67d8;
+    font-family: 'Super Frog', cursive, serif;
+    text-align: center;
+    padding-top: 100px;
+  }
+  
+  .container {
+    background-color: #fff;
+    margin: auto;
+    padding: 40px;
+    width: 300px;
+    border-radius: 25px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  }
+  
+  h1 {
+    color: #ff69b4;
+    <img src"url(c:/Users/ASUS/OneDrive/Pictures/Screenshots/Screenshot 2025-04-06 053027.png)" />
+  }
+  
+  p {
+    font-size: 18px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    opacity: 0.9;
+  }
+  
+  button:first-child {
+    background-color: #ffb6c1;
+  }
+  
+  #no-button {
+    background-color: #d3d3d3;
+    position: relative;
+  }
+  
